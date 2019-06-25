@@ -1,0 +1,9 @@
+# Fichiers de compilation #
+###########################
+
+*.o
+
+makefile.dep
+
+pawnee/webserver/pawnee
+

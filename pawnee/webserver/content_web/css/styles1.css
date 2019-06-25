@@ -1,0 +1,40 @@
+nav li {
+  display: inline;
+}
+
+nav {
+  text-align:center;
+  background : gray;
+  padding: 4px;
+}
+
+nav li a {
+  padding: 20px 50px ;
+  background: gray;
+  color: white ;
+  font : 2em "Trebuchet MS",Arial,sans-serif ;
+  text-decoration: none ;
+}
+
+nav li a:hover, li a:focus, li a:active {
+  background: black ;
+  text-decoration: underline ;
+}
+
+body {background-color:lavender;margin:0;padding:0;}
+
+body>header , body>footer{
+	font-size:3em;letter-spacing:1em;width:100%;text-align:center;border-style:groove;border-color:black;
+}
+
+h1 {font-size:2em;background:black; color:white; text-align: center; width:100%; }
+
+section h2 {font-size:2em; margin:0px; padding:0px;}
+
+article, div{margin-left:1%;padding-right:1%;padding-left:1%;}
+
+article>h3{  font : 1.5em "Trebuchet MS",Arial,sans-serif ;}
+
+article>div {float:left;background-color:lightgray; display:inline-block;width:46%;}
+
+section{padding:1%;}

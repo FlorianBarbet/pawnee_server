@@ -1,0 +1,4 @@
+*.o
+makefile.dep
+pawnee
+*~

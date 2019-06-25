@@ -1,0 +1,18 @@
+CHAPITRE 3 :
+1. Le serveur se relance normalement.
+2. Le serveur s'arrette apres une seconde.
+3. Ca ne fonctionne pas car l'addresse est IPV6 alors que notre serveur n'accepte que l'IPV4.
+4. Seul l'un des deux fonctionne.
+
+CHAPITRE 5 :
+1.changer la sortie du printf sur la sortie standard : STDOUT_FILENO
+3 .
+Message client : GET / HTTP/1.1
+Message client : Host: localhost:8080
+Message client : User-Agent: curl/7.52.1
+Message client : Accept: */*
+Message client : 
+
+4 . REQUETE URL Protocole/Version
+
+
